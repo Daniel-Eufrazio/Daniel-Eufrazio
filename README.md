@@ -1,4 +1,5 @@
-<h1 align="center">Hi! My name is Daniel <br>I'm am 24 years<br>I'm from Brazil</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8600E0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Name+is+Daniel+Eufrazio;I'm+24+years+old;I+am+from+Brazil;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
